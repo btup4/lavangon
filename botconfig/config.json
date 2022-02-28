@@ -1,0 +1,28 @@
+{
+   "token": "Bot Token",
+   "prefix": "?",
+   "ownerIDS": [
+      "558953252687970304"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds ",
+      "text2": "My prefix {prefix}",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+           "host": "www.lavalink-priyam.ml",
+            "port": 443,
+            "password": "methisbigbrain",
+             "secure": true
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
