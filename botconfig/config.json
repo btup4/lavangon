@@ -1,6 +1,6 @@
 {
    "token": "Bot Token",
-   "prefix": "?",
+   "prefix": "-",
    "ownerIDS": [
       "558953252687970304"
    ],
@@ -13,16 +13,16 @@
    "clientsettings": {
       "nodes": [
          {
-           "host": "www.lavalink-priyam.ml",
+            "host": "node1.kartadharta.xyz",
             "port": 443,
-            "password": "methisbigbrain",
+            "password": "kdlavalink",
              "secure": true
          }
       ]
    },
 
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+     "clientID": "9611902fe11447858caf4018dfdca0ea",
+      "clientSecret": "08c7cceed16744a8b7a8f71669a61c31"
    }
 }
