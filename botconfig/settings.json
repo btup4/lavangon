@@ -29,10 +29,10 @@
         "language": "en",
         "pruning": true,
         "unkowncmdmessage": false,
-        "autoresume": true,
+        "autoresume": false,
         
-        "defaultvolume": 20,
+        "defaultvolume": 130,
         "defaultequalizer": false,
-        "defaultautoplay": false
+        "defaultautoplay": true
     }
 }
