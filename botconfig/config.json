@@ -13,10 +13,10 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "lavalink.joshsevero.dev",
-            "port": 80,
-            "password": "oxygen",
-             "secure": false
+            "host": "frequency-lavalink.karaniscool.repl.co",
+            "port": 443,
+            "password": "hostedinreplit",
+             "secure": true
          }
       ]
    },
