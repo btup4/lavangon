@@ -16,7 +16,7 @@
             host: "lavalink.invalid-studios.com",
             port: 2333,
             password: "invaliduser",
-            secure: "false"
+            secure: "false" 
            }
       ]
    },
