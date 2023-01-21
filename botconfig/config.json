@@ -13,9 +13,9 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "node2.lewdhutao.tech",
-            "port": 443,
-            "password": "lewdhutao",
+            "host": "65.108.101.89",
+            "port": 9905,
+            "password": "youshallnotpass",
              "secure": true
          }
       ]
