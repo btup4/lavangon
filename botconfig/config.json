@@ -5,8 +5,8 @@
       "558953252687970304"
    ],
    "status": {
-      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds ",
-      "text2": "My prefix {prefix} \n Bot của vm🆅🅼🅴🅽🅿🅽#6040",
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds\nBot của vm🆅🅼🅴🅽🅿🅽#6040 ",
+      "text2": "My prefix {prefix}\nBot của vm🆅🅼🅴🅽🅿🅽#6040",
       "type": "PLAYING",
       "url": "https://twitch.tv/#"
    },
