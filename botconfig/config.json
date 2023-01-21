@@ -14,9 +14,9 @@
       "nodes": [
          {
             "host": "65.108.101.89",
-            "port": 9905,
+            "port": 2333,
             "password": "youshallnotpass",
-             "secure": true
+           
          }
       ]
    },
