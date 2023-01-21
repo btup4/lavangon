@@ -13,9 +13,9 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "node1.kartadharta.xyz",
+            "host": "node2.lewdhutao.tech",
             "port": 443,
-            "password": "kdlavalink",
+            "password": "lewdhutao",
              "secure": true
          }
       ]
